@@ -1,5 +1,4 @@
-# mppc23-processmining
-MPPC 23 Process Mining Workshop Asset Library
+Microsoft Power Platform Conference 2023
 
 # Workshop: Let's Get Mining
 
