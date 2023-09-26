@@ -2,7 +2,7 @@ Microsoft Power Platform Conference 2023
 
 # Workshop: Let's Get Mining
 
-Asset library for [MPPC 23 Process Mining Workshop]([https://powerplatformconf.com/#!/workshop/Empowering%20Robotic%20Process%20Automation%20Enthusiasts:%20Harnessing%20the%20Potential%20of%20Power%20Automate/5838](https://powerplatformconf.com/#!/workshop/Let's%20Get%20Mining/6088))
+Asset library for [MPPC 23 Process Mining Workshop](https://powerplatformconf.com/#!/workshop/Let's%20Get%20Mining/6088)
 
 This hands-on workshop is designed to equip you with the essential knowledge and best practices required to get started on Microsoft Power Automate Process Mining. You will learn directly from Microsoft’s Product Group about the product features, capabilities and some exciting tips and tricks. This workshop will provide you with a solid foundation to launch your journey with Power Automate Process Mining.
 
